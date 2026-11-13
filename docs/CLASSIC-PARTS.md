@@ -542,3 +542,10 @@ The cap attaches rigidly to either rod end, in either assembly order. It has one
 The [9091213 packaged hinge](https://shop.knexusergroup.org.uk/products/9091213) is confirmed as the existing 90912 blue and 90919 black halves, not another molded part. The orange 90914OR listing remains deferred because its photo shows a ball-shaped end inconsistent with the listed rod-end identity. The [91620 stub-axle hint](https://www.knexusergroup.org.uk/en/knex-hint-W8.html) establishes attachment to 5-way/8-way connector faces and a free wheel on its rod end; detailed mounting geometry remains pending.
 
 ![Alternative Classic rod-end caps](screenshots/classic-sleeve-cap.png)
+
+
+## Tan interlocking clip drawn as the real part
+
+The 90900 tan drive clip had been drawn as a thick ring around the rod with a lug and a pin, which looks nothing like the part. The [supplier photograph](https://shop.knexusergroup.org.uk/products/90900) and the user group's [hint W6](https://www.knexusergroup.org.uk/en/knex-hint-W6.html) show a U-shaped body that clips onto a rod side-on, with one small round peg standing on its back that slots into a hole in a wheel, gear or connector. The model is now that shape: a U-shaped body with a rounded back, two small snap bumps on the inside of the prongs and the peg.
+
+Ports, the 6.4 mm thickness, the key position (5 mm from the rod axis on the +z face) and the mass are unchanged, so saved models and every existing mounting behave as before. The slot stays wide enough never to touch a rod, and the outline is no wider than the old ring. Outline proportions, peg length and bump size are estimates from the photograph, not measured CAD. Tests check that the slot is open, the seat fits the rod, the peg stands where the key port is, and the shipped examples that use clips gain no new overlaps.
